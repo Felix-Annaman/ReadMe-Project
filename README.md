@@ -43,8 +43,5 @@ Contributions to this project are welcome! To contribute, please fork the reposi
 
 To run tests on the project, run `npm test` in the root directory of the project. This will run all of the tests in the `test` directory and output the results to the console.
 
-## Questions
-
-If you have any questions or concerns about the application, please feel free to contact the author at [author's email address]. You can also find more information about the author and their other projects on their GitHub profile: [author's GitHub profile link].
 
 Thank you for using the README Generator! We hope it helps you create high-quality, professional README files for all of your projects.
