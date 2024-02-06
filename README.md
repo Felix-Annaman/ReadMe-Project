@@ -43,5 +43,8 @@ Contributions to this project are welcome! To contribute, please fork the reposi
 
 To run tests on the project, run `npm test` in the root directory of the project. This will run all of the tests in the `test` directory and output the results to the console.
 
+# Video
+Please watch the video of the app here - https://app.screencastify.com/v3/watch/ruoclmclc3j4xdEz7jKY 
+
 
 Thank you for using the README Generator! We hope it helps you create high-quality, professional README files for all of your projects.
